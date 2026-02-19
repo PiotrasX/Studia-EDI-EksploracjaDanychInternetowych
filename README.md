@@ -1,4 +1,4 @@
-# 📘 Studia – EDI - Eksploracja Danych Internetowych
+# 📘 Studia – EDI – Eksploracja Danych Internetowych
 
 Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Eksploracja Danych Internetowych**, realizowanego na Uniwersytecie Rzeszowskim podczas szóstego (6) semestru studiów inżynierskich na kierunku Informatyka.  
 
